@@ -4,3 +4,6 @@
 [submodule "Zookeeper"]
 	path = Zookeeper
 	url = https://github.com/luongtracducanh/Zookeeper
+[submodule "Simple-Currency-Converter"]
+	path = Simple-Currency-Converter
+	url = https://github.com/luongtracducanh/Simple-Currency-Converter
