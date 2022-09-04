@@ -7,3 +7,6 @@
 [submodule "Simple-Currency-Converter"]
 	path = Simple-Currency-Converter
 	url = https://github.com/luongtracducanh/Simple-Currency-Converter
+[submodule "Carnival-Gift-Shop"]
+	path = Carnival-Gift-Shop
+	url = https://github.com/luongtracducanh/Carnival-Gift-Shop
