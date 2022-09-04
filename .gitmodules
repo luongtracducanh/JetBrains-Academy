@@ -10,3 +10,6 @@
 [submodule "Carnival-Gift-Shop"]
 	path = Carnival-Gift-Shop
 	url = https://github.com/luongtracducanh/Carnival-Gift-Shop
+[submodule "Coffee-Machine"]
+	path = Coffee-Machine
+	url = https://github.com/luongtracducanh/Coffee-Machine
