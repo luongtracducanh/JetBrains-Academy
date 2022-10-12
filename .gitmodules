@@ -13,3 +13,6 @@
 [submodule "Coffee-Machine"]
 	path = Coffee-Machine
 	url = https://github.com/luongtracducanh/Coffee-Machine
+[submodule "Hangman"]
+	path = Hangman
+	url = https://github.com/luongtracducanh/Hangman.git
